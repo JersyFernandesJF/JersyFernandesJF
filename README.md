@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JersyFernandesJF
-- 👀 I’m interested in React Native, ReactJs
+- 👀 I’m interested in React Native, ReactJs, full-stack
 - 🌱 I’m currently learning, Blender, C#, TypeScript, NodeJs, React Js
 - 🎒 Engineer Software, Currently studying Video Game Development and Web Applications at Universidade Lusofuna do Porto
 
@@ -38,7 +38,7 @@
 <div> 
  
   <a href="https://instagram.com/jersy_fernandes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/jersyfernandes#2700" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jersysilvafernandes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
