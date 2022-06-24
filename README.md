@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jersy Fernandes
 - 👀 I’m interested in React Native, ReactJs, full-stack
-- 🌱 I’m currently learning, Blender, C#, TypeScript, NodeJs, React Js
+- 🌱 I’m currently learning, Blender, C#, TypeScript, NodeJs, React Js, Swift
 - 🎒 Engineer Software, Currently studying Video Game Development and Web Applications at Universidade Lusofuna do Porto
 
 
