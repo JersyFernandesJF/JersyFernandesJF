@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jersy Fernandes
 - 👀 I’m interested in React Native, ReactJs, Full-Stack
-- 🌱 I’m currently learning, Python, TypeScript, NodeJs, React Js, React Native
+- 🌱 I’m currently learning, Python, TypeScript, NodeJs, React Js, React Native, Angular & Vue3
   
 <div align="center">
   <a href="https://instagram.com/jersy_fernandes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
