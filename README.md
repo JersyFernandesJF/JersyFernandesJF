@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jersy Fernandes
-- 👀 I’m interested in React Native, ReactJs, Full-Stack
+- 👀 I’m interested in React Native, ReactJs and Node JS Full-Stack
 - 🌱 I’m currently learning, Java and Spring Boot
   
 <div align="center">
